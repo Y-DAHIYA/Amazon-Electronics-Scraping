@@ -7,8 +7,8 @@ This project involves web scraping electronic product data from Amazon using Pyt
 
 ---
 
-## 📷 Dashboard Preview
-![Image](https://github.com/user-attachments/assets/0ee74301-7b56-49db-bd0a-db134619f4c1)
+## 📷 Dashboard Preview 
+![Image](https://github.com/user-attachments/assets/88951fd8-f336-4175-8440-9cd467be5955)
 
 ---
 
