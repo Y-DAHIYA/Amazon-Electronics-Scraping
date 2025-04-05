@@ -2,13 +2,13 @@
 
 ---
 
-## 📷 Dashboard Preview
-![Image](https://github.com/user-attachments/assets/0ee74301-7b56-49db-bd0a-db134619f4c1)
+## 📝 Project Overview
+This project involves web scraping electronic product data from Amazon using Python libraries like Selenium and BeautifulSoup. The data is cleaned, stored in a SQL database, and finally visualized using Power BI. The dashboard provides insights into customer ratings, sales, discount patterns, and product quality.
 
 ---
 
-## 📝 Project Overview
-This project involves web scraping electronic product data from Amazon using Python libraries like Selenium and BeautifulSoup. The data is cleaned, stored in a SQL database, and finally visualized using Power BI. The dashboard provides insights into customer ratings, sales, discount patterns, and product quality.
+## 📷 Dashboard Preview
+![Image](https://github.com/user-attachments/assets/0ee74301-7b56-49db-bd0a-db134619f4c1)
 
 ---
 
