@@ -65,18 +65,6 @@ This project involves web scraping electronic product data from Amazon using Pyt
 
 ---
 
-## 📁 Folder Structure
-```
-├── dashboard.png
-├── scraper.py
-├── cleaned_data.csv
-├── electronics.sql
-├── powerbi_dashboard.pbix
-├── README.md
-```
-
----
-
 ## 💡 Key Learnings
 - Handling dynamic content with Selenium
 - Using Proxy APIs for large-scale scraping
@@ -97,8 +85,8 @@ This project involves web scraping electronic product data from Amazon using Pyt
 
 ## 🔗 Connect
 For any queries, feedback, or collaborations:
-**GitHub:** [Your GitHub Profile Link]  
-**Email:** [Your Email Address]
+
+**[Email](yd811822@gmail.com)**
 
 ---
 
